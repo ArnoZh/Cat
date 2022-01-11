@@ -14,6 +14,5 @@
     "url": "git@gitlab.cds.internal.unity3d.com/upm-packages/core/com.unity.test-framework.git",
     "revision": "8d09534f1c9f96b37fa38167a8697e5965ab58b8"
   },
-  "relatedPackages": {},
   "hideInEditor": false
 }
