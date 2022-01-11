@@ -16,7 +16,7 @@ namespace Cat.Core
     public class CatSeting
     {
         /// <summary>
-        /// Cat开关2
+        /// Cat开关
         /// </summary>
         [DefaultValue(false)]
         public bool CatSwitch = false;
